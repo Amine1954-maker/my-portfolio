@@ -1,16 +1,63 @@
-# React + Vite
+# 🚀 3D Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive 3D portfolio built with React and Vite. It showcases my projects, technical skills, and experience through smooth animations and an immersive user experience.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://your-portfolio.pages.dev
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎨 Interactive 3D experience
+- 📱 Fully responsive design
+- ⚡ Fast performance with Vite
+- ✨ Smooth animations and transitions
+- 💼 Featured projects
+- 🛠️ Skills & technologies
+- 📩 Contact form powered by EmailJS
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3 / Tailwind CSS (if you used it)
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP (if you used it)
+- EmailJS
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/amine-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 📬 Contact
+
+If you'd like to collaborate or discuss an opportunity, feel free to reach out through the contact form on the portfolio or connect with me on GitHub.
+
+---
+
+⭐ If you found this project interesting, consider giving it a star!
